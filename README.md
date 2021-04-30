@@ -37,3 +37,6 @@ Note the (env) in front of the prompt. This indicates that this terminal session
 ```bash
 (env)$ python manage.py test blog
 ```
+
+## Project link
+## https://zuri-blogapp.herokuapp.com/
